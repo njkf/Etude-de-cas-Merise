@@ -1,0 +1,12 @@
+ID,Nom,Date de début,Date de fin,Durée,Avancée,Coût,Responsable,Prédécesseurs,Numéro hiérarchique,Ressources,Assignments,Nouvelle tâche,Lien internet,Notes
+0,Présentation de la MM,11/02/19,11/02/19,1,0,0,,,1,,,,,
+4,Oral MM,14/02/19,14/02/19,0,0,0,,0,2,,,,,
+1,MOT Multimax,14/02/19,14/02/19,1,0,0,,0,3,,,,,
+2,MCD/MLD,14/02/19,14/02/19,1,0,0,,0,4,,,,,
+3,MPD BD SGBDR,15/02/19,15/02/19,1,0,0,,1;2,5,,,,,
+
+
+ID,Nom,Rôle par défaut,Courriel,Téléphone,Rôle d'affectation,Taux normal
+0,Fred,Default:0,,,,1
+1,Jules,Default:0,,,,1
+2,Hugo,Default:0,,,,1
